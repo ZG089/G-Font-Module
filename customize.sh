@@ -1,5 +1,5 @@
 ui_print "G-Font installation done !"
-sleep 2.0
+sleep 2
 ui_print "
 █▀▀ █▄░█ ░█ █▀█ █▄█
 ██▄ █░▀█ ▄█ █▄█ ░█░"
